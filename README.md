@@ -1,3 +1,9 @@
-# Winform Calculator Project for 'Application Programming' module
+# WinForm Calculator App
+School project for module: Application Programming
 
-## (to be documented)
+## Features
+(to be documented)
+
+## Lesson takeaways
+- improved C# skills
+- event-driven programming
